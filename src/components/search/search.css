@@ -1,0 +1,27 @@
+.wrapper {
+    padding: 30vh 10%;
+}
+
+.wrapper .control input{
+    padding: 12px 20px;
+    width: 70%;
+    border-radius: 4px;
+    border: 1px #DFE2E5 solid;
+}
+
+.wrapper .list {
+    border: 1px #DFE2E5 solid;
+    width: 74%;
+    padding: 12px 0;
+    border-radius: 4px;
+}
+
+.wrapper .list .item  {
+    cursor: pointer;
+    padding: 20px 10px;
+}
+
+.wrapper .list .item:hover {
+    background-color: #0a97cf;
+    color: #fff;
+}
